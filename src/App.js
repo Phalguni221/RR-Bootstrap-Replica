@@ -12,7 +12,19 @@ function App() {
       <TopBar />
       <br></br>
       <BackgroundImage />
-      <Form/>
+      <br></br>
+      <br></br>
+      <br></br>
+      <br></br>
+      <br></br>
+      <br></br>
+      <br></br>
+      <br></br>
+      <br></br>
+      <br></br>
+      <br></br>
+      <br></br>
+      {/* <Form/> */}
     <StoreListings />
     </div>
   );
